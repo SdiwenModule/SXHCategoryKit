@@ -1,0 +1,6 @@
+framework module SXHCategoryKit {
+  umbrella header "SXHCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

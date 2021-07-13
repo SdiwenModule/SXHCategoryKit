@@ -1,0 +1,22 @@
+{
+  "name": "SXHCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of SXHCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sdiwen007/SXHCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sdiwen007": "384005578@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/sdiwen007/SXHCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SXHCategoryKit/Classes/**/*"
+}
