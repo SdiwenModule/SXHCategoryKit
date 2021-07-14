@@ -3,7 +3,7 @@ PODS:
     - FMDB/standard (= 2.7.5)
   - FMDB/standard (2.7.5)
   - MBProgressHUD (1.2.0)
-  - SXHCategoryKit (1.0.0):
+  - SXHCategoryKit (1.0.1):
     - FMDB
     - MBProgressHUD
 
@@ -22,7 +22,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
-  SXHCategoryKit: f9410d6cfbf550557f296e52fb3b3f56641163d8
+  SXHCategoryKit: 3beb804259431b2fc129288ad2776426244d5df8
 
 PODFILE CHECKSUM: a21fff03453ef3388c7b26dbcec218a8be491439
 

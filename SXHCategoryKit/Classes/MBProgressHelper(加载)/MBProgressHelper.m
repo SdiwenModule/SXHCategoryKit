@@ -13,6 +13,8 @@
 static NSTimeInterval const progressHideDelay = 12.0;
 static NSTimeInterval const textHideDelay = 1.0;
 
+#define WINDOW_MAIN [UIApplication sharedApplication].keyWindow;
+
 @implementation MBProgressHelper
 
 + (void)showProgressHUDInView:(UIView *)view withMessage:(NSString *)message hideDelay:(NSTimeInterval)delay {
