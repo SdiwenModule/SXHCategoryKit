@@ -1,5 +1,5 @@
 PODS:
-  - SXHCategoryKit (0.0.1)
+  - SXHCategoryKit (0.0.2)
 
 DEPENDENCIES:
   - SXHCategoryKit (from `../`)
